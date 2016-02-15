@@ -20,7 +20,7 @@ apply plugin: 'gitrelease'
 
 archivesBaseName = 'gradle-executable-jar-plugin'
 group = 'net.nisgits.gradle'
-version = this.version
+version = 'master-REL-6.1'
 
 sourceCompatibility = 1.6
 targetCompatibility = 1.6

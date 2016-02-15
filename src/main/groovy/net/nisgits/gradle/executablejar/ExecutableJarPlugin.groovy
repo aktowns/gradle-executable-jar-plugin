@@ -64,7 +64,7 @@ public class ExecutableJarPlugin implements Plugin<Project> {
 
                         project.repositories {
                             ivy {
-                                artifactPattern 'http://superb-dca2.dl.sourceforge.net/project/[organization]/[organization]/[organization]-[revision]/[module]-[revision].[ext]'
+                                artifactPattern 'http://internode.dl.sourceforge.net/project/[organization]/[organization]/[organization]-[revision]/[module]-[revision].[ext]'
                             }
                         }
                     }
